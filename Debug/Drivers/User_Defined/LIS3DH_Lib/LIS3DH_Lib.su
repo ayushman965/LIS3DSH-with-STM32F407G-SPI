@@ -1,0 +1,8 @@
+../Drivers/User_Defined/LIS3DH_Lib/LIS3DH_Lib.c:18:9:readRegister	32	static
+../Drivers/User_Defined/LIS3DH_Lib/LIS3DH_Lib.c:40:9:readRegisterInt16	24	static
+../Drivers/User_Defined/LIS3DH_Lib/LIS3DH_Lib.c:49:9:readRegisterRegion	32	static
+../Drivers/User_Defined/LIS3DH_Lib/LIS3DH_Lib.c:89:9:writeRegister	32	static
+../Drivers/User_Defined/LIS3DH_Lib/LIS3DH_Lib.c:108:9:Check_ID	16	static
+../Drivers/User_Defined/LIS3DH_Lib/LIS3DH_Lib.c:140:9:LIS3DSH_Init	16	static
+../Drivers/User_Defined/LIS3DH_Lib/LIS3DH_Lib.c:156:6:LIS3DSH_ReadACC	24	static
+../Drivers/User_Defined/LIS3DH_Lib/LIS3DH_Lib.c:213:6:DropLed	16	static

@@ -1,3 +1,5 @@
+![Proto Board](./IMG20240828220818.jpg)
+
 # LIS3DSH with STM32F407G (SPI Interface)
 
 This project demonstrates how to interface the LIS3DSH accelerometer with the STM32F407G microcontroller to capture acceleration data on the X, Y, and Z axes. It includes fun examples to explore the capabilities of the sensor.
